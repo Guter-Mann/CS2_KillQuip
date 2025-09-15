@@ -5,8 +5,8 @@
 
 ## Documentation
 
-- [English Documentation](./docs/README.en.md)
-- [Русская документация](./docs/README.ru.md)
+- [English Documentation](./README.en.md)
+- [Русская документация](./README.ru.md)
 
 ## Overview
 

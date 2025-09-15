@@ -10,7 +10,7 @@ setup(
     name='KillQuip',
     author='GoodMan',
     version='0.2.0',
-    url='https://github.com/Sh4565/KillQuip',
+    url='https://github.com/Guter-Mann/KillQuip',
     packages=find_packages(),
     include_package_data=True,
     install_requires=requirements,
