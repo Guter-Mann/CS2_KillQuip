@@ -1,5 +1,5 @@
 
-# KillQuip
+<h1 align="center">KillQuip</h1>
 
 ---
 
